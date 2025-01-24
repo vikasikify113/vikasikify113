@@ -1,5 +1,5 @@
 # 💫 About Me:
-I' m a student<br>
+I am a student and software engineer 
 
 
 ## 🌐 Socials:
