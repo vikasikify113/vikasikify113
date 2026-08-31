@@ -1,5 +1,6 @@
+
 # 💫 About Me:
-I'm a  student and I'm currently working on web technology and  interest in Mobile development and Computer Vision.
+I'm a  student and I'm currently working full stack java development and  interest in Mobile development and Computer Vision.
 
 
 ## 🌐 Socials:
