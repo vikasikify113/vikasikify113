@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm a  student ,now I am currently working full stack java development and interest in Mobile development and learning  new technologies and be updated..
+I'm a student present ,now currently working full stack Java development and interest in Mobile development and learning new technologies and be updated..
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikas-v-bab31038b/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/QuantumBiscuit067/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/VikasV045) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasv6565@gmail.com) 
