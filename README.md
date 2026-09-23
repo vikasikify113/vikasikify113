@@ -1,4 +1,4 @@
-Hello! 
+
 # 💫 About Me:
 I'm a Vikas V ,now currently working  Java development and interest in Web development
 I enjoy learning new technologies, be updated and sharing what I learn with the developer community..
