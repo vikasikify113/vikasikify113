@@ -1,8 +1,11 @@
 
 # 💫 About Me:
 I'm a Vikas V ,an Undergraduate Computer science and engineering 
+
 Currently working  Java development  and interest in learning  Web development and GEN AI and use by practical knowledge and logic
+
 I enjoy learning new technologies, be updated and sharing what I learn with the developer community..
+
 I am open to  collaboration 
 
 ## 🌐 Socials:
